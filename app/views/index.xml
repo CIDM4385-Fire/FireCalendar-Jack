@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="calendar">
+		<Label id="label" onClick="doClick">A calendar is on the way</Label>
+	</Window>
+</Alloy>
